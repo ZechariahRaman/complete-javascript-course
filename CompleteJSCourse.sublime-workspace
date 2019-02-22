@@ -1,0 +1,707 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"todo",
+				"todo-item"
+			],
+			[
+				"app",
+				"app-7"
+			],
+			[
+				"o",
+				"ol\tTag"
+			],
+			[
+				"meta",
+				"meta\tTag"
+			],
+			[
+				"ease-in",
+				"ease-in-out\ttransition-timing-function"
+			],
+			[
+				"ease-o",
+				"ease-out"
+			],
+			[
+				"eas",
+				"ease-in\ttransition-timing-function"
+			],
+			[
+				"transition",
+				"transition-timing-function\tproperty"
+			],
+			[
+				"sliderad",
+				"slideRadio4"
+			],
+			[
+				"slideR",
+				"slideRadio1"
+			],
+			[
+				"00",
+				"003459"
+			],
+			[
+				"ta",
+				"ta-c\ttext-align: center;"
+			],
+			[
+				"border-rad",
+				"border-radius\tproperty"
+			],
+			[
+				"slider",
+				"slideRadio4"
+			],
+			[
+				"slide",
+				"slideRadio3"
+			],
+			[
+				"fig",
+				"figcaption\tTag"
+			],
+			[
+				"bo",
+				"border\tproperty"
+			],
+			[
+				"ri",
+				"right\tproperty"
+			],
+			[
+				"tst",
+				"tstCont"
+			],
+			[
+				"bold",
+				"bolder\tfont-weight"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"min",
+				"min-width\tproperty"
+			],
+			[
+				"f",
+				"fixed\tposition"
+			],
+			[
+				"t",
+				"top\tproperty"
+			],
+			[
+				"blo",
+				"blockquote\t(index.php)"
+			],
+			[
+				"border-co",
+				"border-color\tproperty"
+			],
+			[
+				"bord",
+				"border-bottom\tproperty"
+			],
+			[
+				"about",
+				"aboutInfo\t(index.php)"
+			],
+			[
+				"tes",
+				"test"
+			],
+			[
+				"le",
+				"levels"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"te",
+				"text-decoration\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"c",
+				"contain\tbackground-size"
+			],
+			[
+				"re",
+				"relative\tposition"
+			],
+			[
+				"rel",
+				"relative"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"dr",
+				"dropdown-content"
+			],
+			[
+				"fle",
+				"flex"
+			],
+			[
+				"lin",
+				"linear-gradient"
+			],
+			[
+				"max",
+				"max-height\tproperty"
+			],
+			[
+				"tr",
+				"transition\tproperty"
+			],
+			[
+				"lvl-",
+				"lvl-bg\t(index.php)"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"heigh",
+				"height\t = '' Style CSS"
+			],
+			[
+				"styleboxSh",
+				"style_boxShadow\t = '' Style CSS"
+			],
+			[
+				"trans",
+				"transition\t(styles.css)"
+			],
+			[
+				"positio",
+				"position\t = 'fixed' Style CSS"
+			],
+			[
+				"z",
+				"z-index\tproperty"
+			],
+			[
+				"inl",
+				"inline-flex\tdisplay"
+			],
+			[
+				"per",
+				"perspective\t Style CSS"
+			],
+			[
+				"boxSh",
+				"boxShadow\t = '' Style CSS"
+			],
+			[
+				"top",
+				"top\ttransform-origin"
+			],
+			[
+				"style",
+				"style\t Style CSS"
+			],
+			[
+				"getElementBy",
+				"getElementsByTagName\t( localName: DOMString ): HTMLCollection Document"
+			],
+			[
+				"getEl",
+				"getElementById\t( elementId: DOMString ): Element Document"
+			],
+			[
+				"page",
+				"pageYOffset\t(parallaxFixed.html)"
+			],
+			[
+				"trf-t",
+				"trf-tx\ttransform: translateX(${1:x});"
+			],
+			[
+				"trf-r",
+				"trf-ry\ttransform: rotateY(${1:angle});"
+			],
+			[
+				"window",
+				"window.innerHeight\t(parallaxScroll2.html)"
+			],
+			[
+				"onres",
+				"onresize\tAttr"
+			],
+			[
+				"pa",
+				"paper.jpg"
+			],
+			[
+				"background-c",
+				"background-color\tproperty"
+			],
+			[
+				"bg",
+				"bgsz\tbackground-size"
+			],
+			[
+				"b",
+				"bolder\tfont-weight"
+			],
+			[
+				"a",
+				"auto\tmargin"
+			],
+			[
+				"cont",
+				"cont-head\t(index.php)"
+			],
+			[
+				"border-radius",
+				"border-top-left-radius\tproperty"
+			],
+			[
+				"fi",
+				"fixed\tbackground-attachment"
+			],
+			[
+				"box",
+				"box-shadow\tproperty"
+			],
+			[
+				"tra",
+				"transition\tproperty"
+			],
+			[
+				"op",
+				"opacity\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"lvl",
+				"lvl-block\t(index.php)"
+			],
+			[
+				"con",
+				"content\tTag"
+			],
+			[
+				"w",
+				"wrap\tflex-wrap"
+			],
+			[
+				"drop",
+				"dropdown-content"
+			],
+			[
+				"td",
+				"td-n\ttext-decoration: none;"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"shad",
+				"box-shadow\tproperty"
+			],
+			[
+				"tea",
+				"text-align\tproperty"
+			],
+			[
+				"sp",
+				"space-between\tjustify-content"
+			],
+			[
+				"posi",
+				"position\tproperty"
+			],
+			[
+				"r",
+				"row-reverse\tflex-direction"
+			],
+			[
+				"align",
+				"align-items\tproperty"
+			],
+			[
+				"list",
+				"list-style\tproperty"
+			],
+			[
+				"sta",
+				"stats"
+			],
+			[
+				"fl",
+				"flex-container"
+			],
+			[
+				"over",
+				"overflow-y\tproperty"
+			],
+			[
+				"fil",
+				"filter\tproperty"
+			],
+			[
+				"d",
+				"display\tproperty"
+			],
+			[
+				"rgba",
+				"rgba()\tbackground-color"
+			],
+			[
+				"rgb",
+				"rgba()\tcolor"
+			],
+			[
+				"bgr",
+				"bgr-n\tbackground-repeat: no-repeat;"
+			],
+			[
+				"bgs",
+				"bgsz-cv\tbackground-size: cover;"
+			],
+			[
+				"cov",
+				"cover-page"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"l",
+				"lang\tAttr"
+			],
+			[
+				"head",
+				"header\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 185.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": true,
+		"show_open_files": false,
+		"show_tabs": true,
+		"side_bar_visible": false,
+		"status_bar_visible": true
+	},
+	"expanded_folders":
+	[
+		"/F/Zac/Learning/Self-Edu/Udemy/Complete JavaScript Course"
+	],
+	"file_history":
+	[
+		"/F/Zac/Learning/Self-Edu/VueJS/index.html",
+		"/F/Zac/Learning/Self-Edu/ReactJS/my-first-app/src/index.css",
+		"/F/Zac/Learning/Self-Edu/VueJS/vue.js",
+		"/D/xampp/htdocs/livingenglishsam/css/styles.css",
+		"/D/xampp/htdocs/livingenglishsam/about.php",
+		"/F/Zac/Learning/Sand Pit/slider.html",
+		"/D/xampp/htdocs/livingenglishsam/index.php",
+		"/C/Users/Zac/AppData/Local/Temp/is-4LG35.tmp/editor-test.txt",
+		"/F/Zac/Learning/Sand Pit/slider2.html",
+		"/F/PERSONAL NEEDS/NEEDS OF ZACK/School/Sand Pit/pageTurnEffect.html",
+		"/F/xampp/htdocs/livingenglishsam/index.php",
+		"/F/xampp/htdocs/livingenglishsam/css/styles.css",
+		"/C/Documents and Settings/Zac/My Documents/Downloads/generated.svg",
+		"/F/PERSONAL NEEDS/NEEDS OF ZACK/Work/Web Design and Development/TravelMaaya/booking-functions.php",
+		"/F/PERSONAL NEEDS/NEEDS OF ZACK/Work/Web Design and Development/TravelMaaya/Other/BigRock Backups/FTP public_html/wp-content/plugins/wp-travel/inc/booking-functions.php",
+		"/F/xampp/htdocs/livingenglishsam/.git/info/exclude",
+		"/F/PERSONAL NEEDS/NEEDS OF ZACK/School/Arena/JavaScript/parallaxScroll2.html",
+		"/F/PERSONAL NEEDS/NEEDS OF ZACK/School/Arena/JavaScript/realParallax.html",
+		"/F/PERSONAL NEEDS/NEEDS OF ZACK/School/Fun/parallaxFixed.html",
+		"/F/PERSONAL NEEDS/NEEDS OF ZACK/School/Arena/JavaScript/parallaxScroll1.html",
+		"/F/PERSONAL NEEDS/NEEDS OF ZACK/School/Arena/JavaScript/parallax.html",
+		"/F/PERSONAL NEEDS/NEEDS OF ZACK/School/Fun/parallax.html",
+		"/C/Documents and Settings/Raghu/My Documents/Downloads/google85f2a59ab15de416.html",
+		"/C/Documents and Settings/Raghu/My Documents/Downloads/htaccess",
+		"/C/Documents and Settings/Raghu/My Documents/Downloads/sitemap.xml",
+		"/C/Documents and Settings/Raghu/My Documents/Downloads/BingSiteAuth.xml",
+		"/C/Documents and Settings/Zac/.bash_profile",
+		"/F/xampp/htdocs/livingenglishsam/css/styles",
+		"/F/xampp/htdocs/livingenglishsam/about.php",
+		"/F/xampp/htdocs/livingenglishsam/bitsAndPieces.php",
+		"/F/PERSONAL NEEDS/NEEDS OF ZACK/Work/CAUGHTYOUREYE/original/blog.caughtyoureye.cf/index.html",
+		"/F/PERSONAL NEEDS/NEEDS OF ZACK/Work/CAUGHTYOUREYE/original/blog.caughtyoureye.cf/css/index.css",
+		"/C/Documents and Settings/Zac/Application Data/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/F/PERSONAL NEEDS/NEEDS OF ZACK/School/Fun/blurBehindDiv.html",
+		"/F/PERSONAL NEEDS/NEEDS OF ZACK/Work/CAUGHTYOUREYE/original/www.caughtyoureye.cf/css/univ_0.1.css",
+		"/F/PERSONAL NEEDS/NEEDS OF ZACK/Work/CAUGHTYOUREYE/original/www.caughtyoureye.cf/index.html",
+		"/F/PERSONAL NEEDS/NEEDS OF ZACK/Work/Web Design and Development/Hampi Travel Agency/index.html",
+		"/F/PERSONAL NEEDS/NEEDS OF ZACK/Work/Web Design and Development/Hampi Travel Agency/css/styles.css",
+		"/C/Documents and Settings/Zac/.bash_history",
+		"/C/Documents and Settings/Zac/.bashrc",
+		"/C/Documents and Settings/Zac/.gitconfig",
+		"/F/xampp/htdocs/livingenglishsam/img/Thumbs.db",
+		"/F/PERSONAL NEEDS/NEEDS OF ZACK/Work/Web Design and Development/Living English Sam/about.php",
+		"/F/PERSONAL NEEDS/NEEDS OF ZACK/School/Fun/fancyBox.html",
+		"/F/PERSONAL NEEDS/NEEDS OF ZACK/School/Arena/HTML 5/canvasFun.html",
+		"/F/PERSONAL NEEDS/NEEDS OF ZACK/Work/Web Design and Development/Living English Sam/index.php",
+		"/C/Documents and Settings/Zac/My Documents/Downloads/passwd"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 119.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Input",
+			"<div class=\"sliderControls",
+			"~.slider sliderControls label",
+			"slide1",
+			"slide4",
+			"<!",
+			"carousel-1",
+			"<input type=\"radio\" name=\"slides\"",
+			"<div class=\"tstCont\">",
+			"<blockquote>Living English",
+			"<div class=\"sliderControls left\">",
+			"\">&gt</label>",
+			"\">&lt</label>",
+			"\">&gt</label>",
+			"\">&lt</label>",
+			"<label for=\"slide",
+			"fillLink",
+			"<label for=\"slide",
+			"d",
+			"h2",
+			"margin:auto;",
+			"text-align",
+			"h2",
+			"test",
+			"test/",
+			"about",
+			"about/",
+			"/",
+			"about/",
+			");\n",
+			"h2",
+			"flex",
+			"me.jpg",
+			");",
+			"height: 100vh;",
+			"div",
+			"007fff",
+			"content>",
+			"display:flex;",
+			"alt=\"icon\"",
+			"<img src=\"img/icon.png\" alt=\"icon\">",
+			"htdocs",
+			"<img src=\"\"><span>",
+			"height=\"100px\"",
+			"border",
+			"img/hi",
+			"�",
+			"<li class=\"dropdown-head\">",
+			"nav ul",
+			"<li class=\"dropdown-head\">",
+			"<ul class=\"dropdown-content\">",
+			"</summary>\n\t\t\t<ul>",
+			"class=\"bigLink\"",
+			"�",
+			"\"skip\"",
+			"students",
+			"class=\"skip\"",
+			"class=\"info\"",
+			"<a href=\"teacher.php#\" title=\"More about 'Name of Teacher'\">More Info</a>",
+			"href=\"teacher/\"",
+			"class=\"teacher",
+			"<b>",
+			"class=",
+			"#",
+			".",
+			"<p>",
+			"</p>",
+			"C:/Program Files/Sublime Text ",
+			"C:/Program Files/Sublime Text",
+			"sublime.e",
+			"</u>",
+			"<u>",
+			"<h5>Highlighted Phrase</h5>",
+			"<h4>Name of Teacher</h4>",
+			"Name of Teacher",
+			"category"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "CompleteJSCourse.sublime-project",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
