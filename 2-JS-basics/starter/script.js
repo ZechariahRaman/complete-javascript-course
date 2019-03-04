@@ -99,14 +99,12 @@ console.log(x);
 
 x++ // x = x + 1
 console.log(x);
-
 */
-
 
 /*
  * Coding Challenge - 1
  */
-
+/*
 var markMass = 80;
 var markHeight = 1.8;
 var johnMass = 70;
@@ -120,4 +118,177 @@ console.log(markBMI, johnBMI);
 var markJohnBMI = markBMI > johnBMI;
 
 console.log("Is Mark's BMI higher than John's? " + markJohnBMI)
+*/
 
+/*
+ * If-Else statements
+ */
+/*
+var firstName = 'John';
+var civilStatus = 'single';
+
+if(civilStatus === 'married'){
+	console.log(firstName + ' is married.');
+} else {
+	console.log(firstName + ' is single!')
+}
+
+var isMarried = true;
+if(isMarried){
+	console.log(firstName + ' is married.');
+} else {
+	console.log(firstName + ' is single!')
+}
+
+var markMass = 80;
+var markHeight = 1.8;
+var johnMass = 70;
+var johnHeight = 1.85;
+
+var markBMI = markMass / markHeight ** 2;
+var johnBMI = johnMass / johnHeight ** 2;
+
+// console.log(markBMI, johnBMI);
+
+if (markBMI > johnBMI) {
+	console.log("Mark's BMI is higher than John's.")
+} else {
+	console.log("John's BMI is higher than Mark's.")
+}
+
+// var markJohnBMI = markBMI > johnBMI;
+// console.log("Is Mark's BMI higher than John's? " + markJohnBMI)
+*/
+
+/*
+ * Boolean logic
+ */
+/*
+var firstName = 'John';
+var age = 16;
+
+if(age<13){
+	console.log(firstName + ' is a boy.')
+} else if(age>=13 && age<20) {               
+	// between 13 and 20
+	console.log(firstName + ' is a teenager.')
+} else if(age>=20 && age<30){
+	console.log(firstName + ' is a young man.')
+} else {
+	console.log(firstName + ' is a man.')
+}
+
+*/
+
+/*
+ * Ternary Operator and Switch Statements
+ */
+/* 
+var firstName = "John";
+var age = 19;
+
+// Ternary Operator
+age >= 18 ? console.log(firstName + ' drinks beer.') : console.log(firstName + ' drinks juice.');
+
+var drink = age>=18 ? 'Beer' : 'Juice';
+
+console.log(firstName + ' drinks ' + drink);
+
+// Switch Statement
+var job ='teacher';
+switch (job) {
+	case 'teacher':
+	case 'instructor':
+		console.log(firstName + ' teaches kids how to code.');
+		break;
+	case 'driver':
+		console.log(firstName + ' drives kids to school.');
+		break;
+	case 'designer':
+		console.log(firstName + ' designs beautiful websites.');
+		break;
+	default:
+		console.log(firstName + ' does something that I don\'t know. :\)')
+}
+
+switch (true) {
+	case (age<13):
+		console.log(firstName + ' is a boy.');
+		break;
+	case (age >= 13 && age < 20) :
+		console.log(firstName + ' is a teenager.');
+		break;
+	case (age >= 20 && age < 30) :
+		console.log(firstName + ' is a young man.');
+		break;
+	default:
+		console.log(firstName + ' is a man.');
+}
+ */
+
+/*
+ * Truthy and Falsy Values Equality Operators
+ */
+/* 
+var height;
+height = 23;
+if(height || height === 0){
+	console.log('Defined: '+ height);
+} else {
+	console.log('Not Defined: ' + height);
+}
+
+//   Equality Operators
+if (height == '23') {
+	console.log('The == operator does type coercion.');
+}
+*/
+
+/* 
+ * Coding Challenge - 2
+ */
+
+var johnsTeam = [89,120,103],
+	mikesTeam = [116,94,123],
+	marysTeam = [97,134,105];
+
+function average(ar) {
+	var av = 0;
+	ar.forEach(e => {
+		av+=e;
+	});
+	return (av/ar.length);
+
+}
+
+var johnsAverage = average(johnsTeam),
+	mikesAverage = average(mikesTeam),
+	marysAverage = average(marysTeam);
+
+if(johnsAverage>mikesAverage){
+	if (johnsAverage>marysAverage) {
+		return ("John\'s team won!");
+	} else if (johnsAverage<marysAverage) {
+		return ("Mary\'s team won!");
+	} else {
+		return ("Winning draw between John's team and Mary's team.");
+	}
+} else if (mikesAverage>johnsAverage) {
+	if(mikesAverage>marysAverage){
+		return ("Mike\'s team won!");
+	} else if (mikesAverage<marysAverage) {
+		return ("Mary\'s team won!");
+	} else {
+		return ("Winning draw between Mike's team and Mary's team.");
+	}
+} else {
+	if(mikesAverage<marysAverage){
+		return ("Mary\'s team won!");
+	} else if (mikesAverage>marysAverage) {
+		return ("Winning draw between Mike's team and John's team.");
+	} else {
+		return ("Draw between John's team, Mike's team, and Mary's team.");
+	}
+}
+
+/* Test Cases of if-else: https://codepen.io/ZechariahRaman/pen/YgWOEd?editors=0010 */
