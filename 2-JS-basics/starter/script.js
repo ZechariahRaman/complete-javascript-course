@@ -247,7 +247,7 @@ if (height == '23') {
 /* 
  * Coding Challenge - 2
  */
-
+/* 
 var johnsTeam = [89,120,103],
 	mikesTeam = [116,94,123],
 	marysTeam = [97,134,105];
@@ -290,5 +290,118 @@ if(johnsAverage>mikesAverage){
 		return ("Draw between John's team, Mike's team, and Mary's team.");
 	}
 }
+// Test Cases of if-else: https://codepen.io/ZechariahRaman/pen/YgWOEd?editors=0010
 
-/* Test Cases of if-else: https://codepen.io/ZechariahRaman/pen/YgWOEd?editors=0010 */
+*/
+
+/*
+ * Functions
+ */
+/* 
+function calculateAge(birthYear) {
+	return (2018-birthYear);
+}
+
+console.log(calculateAge(1990));
+console.log(calculateAge(1948));
+console.log(calculateAge(1969));
+
+function retirement(birthYear, firstName) {
+	var age = calculateAge(birthYear);
+	var retires = 65 - age;
+	if(retires>0){
+		console.log(firstName + " retires in " + retires + " years.");
+	} else if (retires == 0) {
+		console.log(firstName + " retires in 2018.");
+	} else {
+		console.log(firstName + " has been retired for " + (retires*(-1)) + " years.")
+	}
+}
+
+retirement(1990,'John');
+retirement(1948,'Mike');
+retirement(1969,'Jane');
+retirement(1953,'Mary');
+ */
+/* 
+ * Function Statements and Expressions
+ */
+
+// Function Expression
+/* var whatDoYouDo = function (job, firstName) {
+	switch (job) {
+		case 'teacher':
+			return (firstName + " teaches kids how to code.");
+		case 'driver':
+			return (firstName + " drives a cab.");
+		case 'designer':
+			return (firstName + " designs beautiful websites.");
+		default:
+			return (firstName + " does work that I don't know. :)")
+	}
+}
+
+console.log(whatDoYouDo('teacher','John'));
+console.log(whatDoYouDo('designer','Jane'));
+console.log(whatDoYouDo('retired','Miked')); */
+
+/* 
+ * Arrarys
+ */
+/* 
+//  Initialize Arrays
+var names = ['John', 'Mark', 'Jane'];
+var years = new Array(1990,1969,1948);
+
+console.log(names);
+console.log(names.length);
+
+// Mutate Array
+names[1] = 'Ben';
+console.log(names);
+
+names[names.length] = 'Mary';
+console.log(names);
+
+// Different data types
+var john = ['John','Smith',1990,'teacher',false];
+
+john.push('blue');
+john.unshift('Mr.');
+
+console.log(john);
+
+john.pop();
+john.shift();
+console.log(john);
+
+console.log(john.indexOf(1990));
+console.log(john.indexOf(23));
+
+console.log(john.indexOf('designer') === -1 ?'John isn\'t a designer': 'John\'s a designer');
+ */
+
+/* 
+ * Coding Challenge - 3
+ */
+
+var bills = [124, 48, 268], tips=[], totalBills = [];
+
+function calculateTip(bill) {
+	if (bill<50) {
+		return (bill*0.2);
+	} else if (bill>=50&&bill<200) {
+		return (bill*0.15);
+	} else {
+		return (bill*0.1);
+	}
+}
+
+bills.forEach((e,i)=> {
+	tips[i] = calculateTip(e);
+	totalBills[i] = e + tips[i];
+});
+
+console.log(bills);
+console.log(tips);
+console.log(totalBills);
